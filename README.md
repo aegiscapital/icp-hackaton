@@ -47,7 +47,7 @@ Our main vision is to be able to connect diverse people and projects into a larg
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/569efafd-9338-4c6b-b237-53d75dfa9cd5)
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/d72a3a40-83b2-440f-8381-f0314ae9a18d)
 
-- **Twitter (X) account to spread the word**
+- **Twitter (X) Account to Spread the Word**
 
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/ed13d59f-c102-4d54-867e-5317dd6d9a91)
 
