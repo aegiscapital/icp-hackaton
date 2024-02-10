@@ -1,5 +1,4 @@
-# icp-hackaton
-Aegis Public Repository for ICP Hackaton
+# Aegis Public Repository for ICP Hackaton
 
 ## Summary
 
@@ -18,17 +17,23 @@ Aegis works with the help of experienced contributors and community proposals to
 
 Our main vision is to be able to connect diverse people and projects into a large ecosystem, forming strategic partnerships to co-create valuable assets. We know that such entities and users often reside on different blockchains, so development aimed at interoperability is of paramount importance and ICP offers the best set of technology, services and tools to make these goals a reality.
 
-## How We Do It
+## How We Do It and Future Roadmap
 
-# Using internet identity to facilitate access
+**Using Internet Identity to Facilitate Access and Onboarding**
 
-# Ordinals Integration/Marketplace
+- Resources: https://internetcomputer.org/internet-identity
+- Use Cases: https://identity.ic0.app/ , https://nfid.one/ 
 
-- **React.js:** 
+
+**Aegis Main Collection is Inscripted on BTC Network, for Ordinals Integration/Marketplace**
+
+- Resources: https://internetcomputer.org/multichain/
+- Use Cases: https://bioniq.io/
 
 
-## Future Roadmap
+**Distributing the Value of Co-created Collections to the Community**
 
+- Resources: https://internetcomputer.org/docs/current/developer-docs/integrations/ethereum/evm-rpc
 
 
 ## Project Media
