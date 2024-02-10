@@ -17,7 +17,7 @@ Aegis works with the help of experienced contributors and community proposals to
 
 Our main vision is to be able to connect diverse people and projects into a large ecosystem, forming strategic partnerships to co-create valuable assets. We know that such entities and users often reside on different blockchains, so development aimed at interoperability is of paramount importance and ICP offers the best set of technology, services and tools to make these goals a reality.
 
-## How We Do It and Future Roadmap
+## How We Do It
 
 **Using Internet Identity to Facilitate Access and Onboarding**
 
@@ -30,10 +30,30 @@ Our main vision is to be able to connect diverse people and projects into a larg
 - Resources: https://internetcomputer.org/multichain/
 - Use Cases: https://bioniq.io/
 
+## Future Roadmap
 
 **Distributing the Value of Co-created Collections to the Community**
 
 - Resources: https://internetcomputer.org/docs/current/developer-docs/integrations/ethereum/evm-rpc
 
+**Implementing deeper DAO structure using SNS**
+
+- Resources: https://internetcomputer.org/docs/current/tokenomics/
 
 ## Project Media
+
+- **Discord Community for Organization and Information purposes**
+  
+![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/569efafd-9338-4c6b-b237-53d75dfa9cd5)
+![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/d72a3a40-83b2-440f-8381-f0314ae9a18d)
+
+- **Twitter (X) account to spread the word**
+
+![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/ed13d59f-c102-4d54-867e-5317dd6d9a91)
+
+- **Documentation Page**
+
+![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/2b4344cc-2ca1-4cea-8cb3-85ec39aa344a)
+
+
+
