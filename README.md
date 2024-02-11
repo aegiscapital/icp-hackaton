@@ -36,15 +36,18 @@ Our main vision is to be able to connect diverse people and projects into a larg
 
 - Resources: https://internetcomputer.org/docs/current/developer-docs/integrations/ethereum/evm-rpc
 
-**Implementing deeper DAO structure using SNS**
+**Implementing Deeper DAO Structure Using SNS**
 
 - Resources: https://internetcomputer.org/docs/current/tokenomics/
 
 ## Project Media
 
-- **Discord Community for Organization and Information purposes**
-  
+- **Discord Community for Organization and Information Purposes**
+
+- Discord Announcements Channel:
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/569efafd-9338-4c6b-b237-53d75dfa9cd5)
+
+- Discord Dev News Channel:
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/d72a3a40-83b2-440f-8381-f0314ae9a18d)
 
 - **Twitter (X) Account to Spread the Word**
@@ -54,6 +57,10 @@ Our main vision is to be able to connect diverse people and projects into a larg
 - **Documentation Page**
 
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/2b4344cc-2ca1-4cea-8cb3-85ec39aa344a)
+
+- **Website Demo Presentation**
+
+  
 
 
 
