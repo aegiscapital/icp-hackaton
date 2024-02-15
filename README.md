@@ -63,7 +63,7 @@ Our main vision is to be able to connect diverse people and projects into a larg
 
 ![image](https://github.com/aegiscapital/icp-hackaton/assets/104056726/2b4344cc-2ca1-4cea-8cb3-85ec39aa344a)
 
-- **Website Demo Presentation**
+# **Website Demo Presentation**
 
 ## Link: [Website Demo](https://drive.google.com/file/d/1wQHYSEBa-bBeWwsc6JkYz_Ah56QBTijB/view?usp=sharing)
 
