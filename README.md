@@ -30,7 +30,7 @@ Our main vision is to be able to connect diverse people and projects into a larg
 - Resources: https://internetcomputer.org/multichain/
 - Use Cases: https://bioniq.io/
 
-## Future Roadmap
+## Future Plans
 
 **Distributing the Value of Co-created Collections to the Community**
 
@@ -39,6 +39,11 @@ Our main vision is to be able to connect diverse people and projects into a larg
 **Implementing Deeper DAO Structure Using SNS**
 
 - Resources: https://internetcomputer.org/docs/current/tokenomics/
+
+## Roadmap Details and History (Docs)
+
+- Visit: https://aegis-protocol.gitbook.io/en/history/roadmap
+
 
 ## Project Media
 
