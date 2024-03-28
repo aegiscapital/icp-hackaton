@@ -1,5 +1,7 @@
 # Aegis Public Repository for ICP Hackaton
 
+### Attention: this repository was created exclusively for participation in the ICP hackathon by Encodeclub and may not represent the actual development guidelines of the project.
+
 ## Summary
 
 Aegis is being developed to democratize education and knowledge about crypto assets, blockchain and Web3, besides operating its assets through contribution of experienced analysts and with the help of the Aegis community. Aegis Protocol shares the ecosystem's benefits with community members through utility NFTs, so that each individual can help build the protocol and feel part of an amalgamated system between human and technology. Aegis Protocol's main goal is to democratize access to knowledge and technology of decentralized finance for people who sometimes did not have the opportunity to know or interact with such technological evolution.
